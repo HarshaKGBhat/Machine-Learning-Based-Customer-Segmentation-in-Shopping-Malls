@@ -1,0 +1,2 @@
+# Machine-Learning-Based-Customer-Segmentation-in-Shopping-Malls
+which involved utilizing customShowed interests to classify them into distinct segments using K mean algorithm. Successfully driving a 25% increase in store profit, targeting the 20-40 age group showcased a remarkable surge in average spending and strategic initiatives to expand the middle-income customer base resulted in a 15% profit uplift. 
